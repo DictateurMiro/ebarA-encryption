@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/DictateurMiro/ebarA-encryption?color=7F9DE0&label=Stars">
   <img src="https://img.shields.io/github/forks/DictateurMiro/ebarA-encryption?color=7F9DE0&label=Forks">
 </p>
-e
+
 Exemple la clé 'DictateurX' avec le texte 'ebarA' va donnez le résultat '811437 254696 690382 609582 690382'
 
 # Features 
