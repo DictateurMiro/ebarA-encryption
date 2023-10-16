@@ -4,6 +4,6 @@ Exemple la clé 'DictateurX' avec le texte 'ebarA' va donnez le résultat '81143
 
 # Features 
 
-> Un texte sera convertir en minuscule donc pour "Salut ebarA" on aura "salut ebara"
-> Tout les espaces du texte seront convertis par un "X" on aura donc "salutXebara"
-> Et ensuite caractère par caractère celui-ci sera converti par la clé.
+> Un texte sera convertir en minuscule donc pour "Salut ebarA" on aura "salut ebara"<br>
+> Tout les espaces du texte seront convertis par un "X" on aura donc "salutXebara"<br>
+> Et ensuite caractère par caractère celui-ci sera converti par la clé.<br>
