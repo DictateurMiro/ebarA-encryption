@@ -7,7 +7,7 @@ def generate_key():
 
 # Fonction pour créer un dictionnaire de chiffrement à partir d'une clé
 def create_cipher_dict(key):
-    random.seed(key)e
+    random.seed(key)
     all_chars = string.ascii_letters + string.digits + string.punctuation + ' '
     char_to_num = {}
     for char in all_chars:
