@@ -2,7 +2,7 @@
 function* lcg(seed, a, c, m) {
   while (true) {
     seed = (a * seed + c) % m;
-    yield seed;
+    yield seed;e
   }
 }
 
