@@ -21,3 +21,5 @@ Exemple la clé 'DictateurX' avec le texte 'ebarA' va donnez le résultat '81143
 > Et pour la décryption tout les "X" seront converti par un espace pour faciliter la lecture 
 
 Etant donné l'open source et le fait que le programme soit en python, je laisse a vous la possibilité de comprendre le programme pour réussir a décoder tout les messages en exploitant des vulnérabilité, si vous en trouvez n'hésitez pas a fork :) 
+
+<a href="https://dictateurmiro.github.io/ebarA.html">Version Online</a> fonctionnant avec la version "<a href="https://github.com/DictateurMiro/ebarA-encryption/script.js">script.js</a>" qui n'est pas la meme que python.
